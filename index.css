@@ -277,7 +277,7 @@ footer > * {
   text-align: center;
 }
 
-@media (min-width: 30rem) {
+@media (min-width: 35rem) {
 
   body, html {
     height: 100%;
